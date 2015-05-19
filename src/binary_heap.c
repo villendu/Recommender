@@ -26,7 +26,7 @@
 
 
 
-#include "binary_heap.h"
+#include "binary_heap2.h"
 
 #include <stdlib.h>
 #include <assert.h>
